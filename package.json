@@ -76,7 +76,7 @@
     "react-test-renderer": "16.13.1",
     "redux": "4.0.5",
     "rollup": "2.23.1",
-    "rollup-plugin-terser": "6.1.0",
+    "rollup-plugin-terser": "7.0.2",
     "sinon": "9.0.2"
   },
   "lint-staged": {
